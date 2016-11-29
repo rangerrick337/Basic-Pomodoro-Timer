@@ -1,0 +1,49 @@
+body {
+  display: flex;
+  flex-wrap: wrap;
+  width: 325px;
+}
+
+#title, h3, h1 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  width: 325px;
+  margin: 5px;
+}
+
+#buttons {
+  height: 75px;
+  display: flex;
+}
+
+#start {
+  background-color: #97C7B0;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  margin: 10px;
+}
+
+#addTime {
+  background-color: #98AFC7;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  margin: 10px;
+}
+
+#subtractTime {
+  background-color: #C797AE;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  margin: 10px;
+}
