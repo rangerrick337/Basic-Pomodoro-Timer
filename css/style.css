@@ -19,7 +19,7 @@ body {
 }
 
 #start {
-  background-color: #97C7B0;
+  background-color: #5CB437;
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -29,7 +29,7 @@ body {
 }
 
 #addTime {
-  background-color: #98AFC7;
+  background-color: #2D945D;
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -39,7 +39,17 @@ body {
 }
 
 #subtractTime {
-  background-color: #C797AE;
+  background-color: #C53C54;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  margin: 10px;
+}
+
+#reset {
+  background-color: #D26140;
   border-radius: 50%;
   display: flex;
   align-items: center;
